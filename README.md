@@ -40,4 +40,4 @@ https://dzone.com/articles/need-billions-of-web-pages-dont-bother-crawling
 ## 🚀 Deployment
 
 The live version is hosted on [GitHub](https://github.com) and [Kaggle](https://kaggle.com).
-The pre-trained model is found in `main2.py`.
+The pre-trained model is found in `main.py`.
