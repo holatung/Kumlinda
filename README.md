@@ -29,13 +29,10 @@ Creator: Accounts for content creators, artists and influencers
 
 # OpenSource Articles
 
-
-```
 CommonCrawl is a non-profit organization which provides web crawl data for free. Their datasets are used by various organizations, both in academia and industry,
 as can be seen on the examples page. The applications range from machine learning to natural language processing or computational linguistics.
-https://dzone.com/articles/need-billions-of-web-pages-dont-bother-crawling
+[Common Crawl](https://commoncrawl.org/use-cases)
 
-```
 
 ## 🚀 Deployment
 
