@@ -37,14 +37,26 @@ Business: Accounts with access to tools to grow and reach customers
 
 Creator: Accounts for content creators, artists and influencers
 
+#### 1. [Manually Annotated Social Media Sentiment Dataset]
+#### 2. [Semi-automated Annotated Social Media Sentiment Lexicon]
+
 # OpenSource Articles
 
 CommonCrawl is a non-profit organization which provides web crawl data for free. Their datasets are used by various organizations, both in academia and industry,
 as can be seen on the examples page. The applications range from machine learning to natural language processing or computational linguistics.
 [Common Crawl](https://commoncrawl.org/use-cases)
 
+## Model 
+
+
+This model is available via Kaggle Model Hub [here](https://www.kaggle.com/)
+
 
 ## 🚀 Deployment
 
 The live version is hosted on [GitHub](https://github.com) and [Kaggle](https://kaggle.com).
 The pre-trained model is found in `main.py`.
+
+## Contact me
+
+If you want to report a problem or suggest an enhancement, crowdsourcing contributors is welcomed. Reach me via email (israel@chatve.co) or on [X](https://x.com/Holatung).
