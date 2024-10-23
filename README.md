@@ -3,6 +3,15 @@
 Fortifying Community Truth: Developing Lexicons on Tech Facilitated GBV and Model for Low-resourced African Languages ( Hausa, Igbo, Yoruba and Swahili) 
 African languages are spoken by over a billion people, but they are under-represented in NLP research and development. Multiple challenges exist, including the limited availability of annotated training and evaluation datasets as well as the lack of understanding of which settings, languages, and recently proposed methods like cross-lingual transfer will be effective. Perpetrators of TFGBV (Tech-Facilitated Gender Based Violence) have used local nuances online to target women and girls, many generic or non-African model not trained on these languages have performed poorly in flagging some of these words on social media, we aim to move towards solutions for these challenges, focusing on the task of named entity recognition (NER). We present the creation of the largest to-date human-annotated NER corpus used on social media to target the female gender in four African languages (Hausa, Igbo, Yoruba, and Swahili).
 
+## Supported Languages
+
+ Language      | ISO 639-2 code
+ ------------- | -------------
+Hausa	| hau
+Igbo	| ibo
+Yoruba	| yor
+Swahili	| swa
+
 # Post surface
 ```
 FaceBook Results include those posted from the specified endpoints.
