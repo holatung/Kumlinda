@@ -12,6 +12,35 @@ Igbo	| ibo
 Yoruba	| yor
 Swahili	| swa
 
+## Formats
+
+All the data and associated metadata together in one file will be available in csv and json file formats.
+
+`Kumlinda.csv` - data and associated metadata in csv format.
+
+`Kumlinda.json` - data and associated metadata in json format.
+
+Below is an example row.
+
+```json
+{
+   "data":{
+      "eng":"Her pussy would have been insanely expanded, Damn.",
+      "hau":"Baad Metrolojih Eglali Areketekeh Addal Ozonih qelu faxe waktik lafetle calat biyakisem xayose.",
+      "ibo":"የአለም የአየር ንብረት ድርጅት በአርክቲክ አካባቢ ያለው የኦዞን ምንጣፍ ከፍተኛ ጉዳት እንደደረሰበት አስታወቀ፡፡",
+      "yor":"Òbò ma ti fẹ̀ bi olóríburúkú, Damn.",
+      "swa":"Ururka Saadaasha Hawada Adduunka ayaa ku warramaya in lakabka ozoneka ee Ka koreeya dhulka baraflayda uu waxyeelladii abid ugu darnaa soo gaadhay.",
+   },
+   "metadata":{
+      "scope":"Global",
+      "category":"Science and Technology",
+      "source":"https://www.independent.co.uk/environment/climate-change/ozone-layer-damaged-by-unusually-harsh-winter-2263653.html",
+      "domain":"www.independent.co.uk",
+      "date":"2011-04-05"
+   }
+}
+
+````
 # Post surface
 ```
 FaceBook Results include those posted from the specified endpoints.
