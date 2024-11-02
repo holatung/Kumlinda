@@ -12,6 +12,16 @@ Igbo	| ibo
 Yoruba	| yor
 Swahili	| swa
 
+## Attributes
+
+ Attribute      | Contextualisation
+ ------------- | -------------
+Sexually Explicit	| Comments expressing desire for genital nudity or depictions or descriptions of simulated or actual sexual acts.
+Vulgarity	| Making explicit and offensive reference to sex or bodily functions.
+Insult	| Remarks that includes offensive and disresprectful words.
+Flirtation	| Statements demonstrating inappropriate sexual advances with the intent to arouse sexual feelings.
+Misogyny/Gender Trolling	| Passing sexist remarks, jokes, and memes, expressions treating women like objects, stereotyping women, sending unsolicited pornographic contents.
+
 ## Formats
 
 All the data and associated metadata together in one file will be available in csv and json file formats.
@@ -34,9 +44,9 @@ Below is an example row.
    "metadata":{
       "scope":"Global",
       "category":"Science and Technology",
-      "source":"https://www.independent.co.uk/environment/climate-change/ozone-layer-damaged-by-unusually-harsh-winter-2263653.html",
-      "domain":"www.independent.co.uk",
-      "date":"2011-04-05"
+      "source":"https://www.nairaland.com/8248492/former-adult-film-actress-riley",
+      "attribute":"vulgarity",
+      "date":"2024-10-24"
    }
 }
 
