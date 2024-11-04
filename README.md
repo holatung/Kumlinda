@@ -36,10 +36,10 @@ Below is an example row.
 {
    "data":{
       "eng":"Her pussy would have been insanely expanded, Damn.",
-      "hau":"Baad Metrolojih Eglali Areketekeh Addal Ozonih qelu faxe waktik lafetle calat biyakisem xayose.",
-      "ibo":"የአለም የአየር ንብረት ድርጅት በአርክቲክ አካባቢ ያለው የኦዞን ምንጣፍ ከፍተኛ ጉዳት እንደደረሰበት አስታወቀ፡፡",
+      "hau":"Da an fadada farjinta da hauka, Damn",
+      "ibo":"Ọtụ ya gaara agbasawanye nke ukwuu, Damn",
       "yor":"Òbò ma ti fẹ̀ bi olóríburúkú, Damn.",
-      "swa":"Ururka Saadaasha Hawada Adduunka ayaa ku warramaya in lakabka ozoneka ee Ka koreeya dhulka baraflayda uu waxyeelladii abid ugu darnaa soo gaadhay.",
+      "swa":"Pussy yake ingekuwa imepanuliwa kichaa, Damn",
    },
    "metadata":{
       "scope":"Africa",
