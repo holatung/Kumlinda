@@ -42,8 +42,8 @@ Below is an example row.
       "swa":"Ururka Saadaasha Hawada Adduunka ayaa ku warramaya in lakabka ozoneka ee Ka koreeya dhulka baraflayda uu waxyeelladii abid ugu darnaa soo gaadhay.",
    },
    "metadata":{
-      "scope":"Global",
-      "category":"Science and Technology",
+      "scope":"Africa",
+      "category":"Romance",
       "source":"https://www.nairaland.com/8248492/former-adult-film-actress-riley",
       "attribute":"vulgarity",
       "date":"2024-10-24"
