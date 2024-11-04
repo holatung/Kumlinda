@@ -18,7 +18,7 @@ Swahili	| swa
  ------------- | -------------
 Sexually Explicit	| Comments expressing desire for genital nudity or depictions or descriptions of simulated or actual sexual acts.
 Vulgarity	| Making explicit and offensive reference to sex or bodily functions.
-Insult	| Remarks that includes offensive and disresprectful words.
+Insult	| Remarks that include offensive and disrespectful words.
 Flirtation	| Statements demonstrating inappropriate sexual advances with the intent to arouse sexual feelings.
 Misogyny/Gender Trolling	| Passing sexist remarks, jokes, and memes, expressions treating women like objects, stereotyping women, sending unsolicited pornographic contents.
 
