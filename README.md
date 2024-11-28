@@ -79,6 +79,28 @@ Creator: Accounts for content creators, artists and influencers
 #### 1. [Manually Annotated Social Media Sentiment Dataset]
 #### 2. [Semi-automated Annotated Social Media Sentiment Lexicon]
 
+### Translation Team
+
+#### Swahili
+
+- Nyakerario Omari
+- Joan Muthoki Kithanze
+
+#### Hausa
+
+- 
+- 
+
+#### Igbo
+
+- Ada 
+- Ehis
+
+#### Yoruba
+
+- Israel Olatunji Tijani
+- Salvation Grace
+
 # OpenSource Articles
 
 CommonCrawl is a non-profit organization which provides web crawl data for free. Their datasets are used by various organizations, both in academia and industry,
