@@ -1,1 +1,1 @@
-This file contains collected lexicons in both .csv and .json format.
+This file contains collected tfgbv yoruba lexicons in both .csv and .json format.
