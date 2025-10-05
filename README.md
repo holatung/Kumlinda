@@ -50,6 +50,23 @@ Below is an example row.
    }
 }
 
+{
+   "data":{
+      "eng":"That's breast milk.",
+      "hau":"wato nono",
+      "ibo":"ya bu mmiri ara ara",
+      "yor":"o mi oyan.",
+      "swa":"maziwa ayoo",
+   },
+   "metadata":{
+      "scope":"Africa",
+      "category":"Entertainment",
+      "source":"https://www.instagram.com/reel/DNdee90oEou/?igsh=MWw3aHUyY3FrbzNoMA==",
+      "attribute":"vulgarity",
+      "date":"2025-08-17"
+   }
+}
+
 ````
 # Post surface
 ```
